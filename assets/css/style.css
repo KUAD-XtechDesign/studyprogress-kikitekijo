@@ -1,4 +1,9 @@
 @charset "UTF-8";
-h1{
-  background-color: rgb(185,0,215);
+h1 {
+  padding: 0.5em;
+  color: #000000;
+  border-left: solid 10px #b900d7;
+  border-right: solid 10px #b900d7;
+  background:-webkit-repeating-linear-gradient(-45deg, #, #000000 3px,#e9f4ff 3px, #e9f4ff 7px);
+  background: repeating-linear-gradient(-45deg, #e5d1e5, #e5d1e5 3px,#ffffff 3px, #ffffff 7px);
 }
